@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-04T21:36:34.496Z'
-dateModified: '2016-02-04T21:36:26.576Z'
-title: Domain=Brand
+description: This Website will be a branding domain selling place.
+datePublished: '2016-02-04T21:40:22.798Z'
+dateModified: '2016-02-04T21:39:57.361Z'
+title: Domain is a Brand
 author: []
 sourcePath: _posts/2016-02-03-domainbrand.md
 published: true
@@ -28,7 +28,7 @@ Uploading Item...
 
 CONVERTING A DOMAIN INTO A VALUABLE BRAND
 
-MEANS THAT YOUR PRODUCT WILL BE ACCEPTED BY EVERYBODY
+MEANS THAT YOUR PRODUCT WILL BE TRUSTED BY EVERYONE
 
 Uploading Item...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54799b7-2290-40dd-93ed-3e9595ce2bee.jpg)
