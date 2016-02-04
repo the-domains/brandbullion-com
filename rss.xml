@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Brandbullion.com]]></title>
         <description><![CDATA[Brandbullion.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brandbullion-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 21:08:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 21:37:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brandbullion-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Domain=Brand]]></title>
-            <description><![CDATA[<article><h1>Domain=Brand</h1><p>CONVERTING A DOMAIN INTO A VALUABLE BRAND</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ccb49ff28bc5f710d3ee48e59504b60fd8ca9d9.jpg"></article>]]></description>
-            <link>undefineddomainbrand/index.html</link>
+            <description><![CDATA[<article><h1>Domain=Brand</h1><p>CONVERTING A DOMAIN INTO A VALUABLE BRAND</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a4a782cfe40a0edfc8fd05492c520f70d37af43.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brandbullion-com/domainbrand/index.html</link>
             <guid isPermaLink="false">2494690d-30da-424b-8cdb-0a391b528e06</guid>
-            <pubDate>Wed, 03 Feb 2016 21:08:34 GMT</pubDate>
+            <pubDate>Thu, 04 Feb 2016 21:36:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
